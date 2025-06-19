@@ -39,3 +39,4 @@ The backend saves the updated content to the database.
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/1321e614-a722-4495-b7c1-3459881bd5a3)
